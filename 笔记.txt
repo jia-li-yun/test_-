@@ -1,0 +1,2 @@
+base64 
+cropper不能直接直接识别jquery    必须导入jquery-cropper 才可以实现
